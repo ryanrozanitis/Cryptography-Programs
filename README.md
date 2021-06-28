@@ -1,5 +1,5 @@
 # Cryptography-Programs
-These are some of the cryptography programs I wrote during my second semseter at NJIT. This was written in Python 3.7.
+These are some of the cryptography programs I wrote during my second semester at NJIT. This was written in Python 3.7.
 
 ## About
 - The Midterm Folder contains programs for decoding and encoding numeric representation, Euclidian GCD, finding generators for numbers, multiplicative modular inverse, square and multiply operations. It also contains Simple ElGamal and RSA programs.
